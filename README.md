@@ -59,7 +59,7 @@ To edit this webpage and push it to GitHub, follow these steps:
 	  ```
 	  Replace `main` with the branch name if your repository uses a different default branch.
 	  
-	Note: Ensure you have the necessary permissions to push changes to the repository.
+	  Note: You who are collaborators have push rights, this means you will overwrite the repo(!). 
 
 7. **View the Updated Webpage**:
 	- The repository is configured for GitHub Pages, the changes will automatically reflect on the hosted webpage.
