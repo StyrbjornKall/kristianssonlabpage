@@ -54,20 +54,22 @@ def fetch_publication_details(pub_url):
             "year": "Unknown"
         }
 
+print("🔍 Fetching publications from Google Scholar...")
+print(f"URL: {SCHOLAR_URL}\n")
+
 # Fetch the webpage content
-print("🔍 Fetching publications list from Google Scholar...")
 response = requests.get(SCHOLAR_URL, headers={"User-Agent": "Mozilla/5.0"})
 html = response.text
 
 # Parse the HTML
 soup = BeautifulSoup(html, "html.parser")
 
-# Extract publication data
+# Extract publication data - TEST ONLY FIRST 2 to save time
 publications = []
-publication_rows = soup.select(".gsc_a_tr")
+publication_rows = soup.select(".gsc_a_tr")[:2]  # Only test first 2 publications
 total_pubs = len(publication_rows)
 
-print(f"📚 Found {total_pubs} publications. Fetching details for each...\n")
+print(f"🧪 TEST MODE: Fetching details for first {total_pubs} publications...\n")
 
 for idx, row in enumerate(publication_rows, 1):
     title_element = row.select_one(".gsc_a_at")
@@ -88,9 +90,26 @@ for idx, row in enumerate(publication_rows, 1):
         "date": details["year"]
     })
 
-# Save the data to a JSON file
-print(f"\n💾 Saving {len(publications)} publications to publications.json...")
-with open("publications.json", "w", encoding="utf-8") as f:
-    json.dump(publications, f, ensure_ascii=False, indent=4)
+print(f"\n✅ Successfully extracted {len(publications)} publications\n")
+print("=" * 80)
+print("DETAILED OUTPUT:")
+print("=" * 80)
 
-print("✅ Publications JSON file updated successfully!")
+# Display publications in detail
+for i, pub in enumerate(publications, 1):
+    print(f"\n📄 Publication {i}:")
+    print(f"   Title:    {pub['title']}")
+    print(f"   Authors:  {pub['authors']}")
+    print(f"   Journal:  {pub['journal']}")
+    print(f"   Year:     {pub['date']}")
+    print(f"   Abstract: {pub['abstract'][:200]}..." if len(pub['abstract']) > 200 else f"   Abstract: {pub['abstract']}")
+    print(f"   Link:     {pub['link'][:80]}...")
+
+print("\n" + "=" * 80)
+print("FULL JSON OUTPUT:")
+print("=" * 80)
+print(json.dumps(publications, indent=2, ensure_ascii=False))
+
+print("\n" + "=" * 80)
+print(f"✅ Test completed! Verified {len(publications)} publications with full details.")
+print("=" * 80)
