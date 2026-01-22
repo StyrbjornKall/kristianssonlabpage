@@ -1,1 +1,162 @@
-[]
+[
+    {
+        "title": "Strain-Level Typing of Streptococcus pyogenes Using Optical DNA Mapping",
+        "link": "https://scholar.google.se/citations?view_op=view_citation&hl=sv&user=WauDzPUAAAAJ&sortby=pubdate&citation_for_view=WauDzPUAAAAJ:QYdC8u9Cj1oC",
+        "authors": "Radhika N Kunnath, Zahra Abbaspour, Anna Johnning, Karolin Frykholm, Marie Wrande, Albertas Dvirnas, Sriram Kk, Christian G Giske, Tobias Ambjörnsson, Linus Sandegren, Erik Kristiansson, Fredrik Westerlund",
+        "journal": "ACS Infectious Diseases",
+        "abstract": "Streptococcus pyogenes, also known as group A Streptococcus (GAS), is a Gram-positive bacterial pathogen responsible for approximately 500,000 deaths globally per year. Therefore, surveillance of invasive GAS infections is of critical importance in understanding societal transmission. In this study, we propose an optical DNA mapping (ODM)-based assay for strain-level typing of S. pyogenes. Fluorescently labeled DNA molecules of lengths >150 kbp are stretched in nanochannels and imaged to reveal genomic information. A core genome alignment-based typing scheme is then utilized for identification at the strain level. Although our technique lacks the nucleotide-level resolution of whole-genome sequencing, it excels at detecting patterns across long stretches of DNA that remain inaccessible to short-read sequencing methods. Using clinical isolates, we demonstrate that the ODM assay can identify S …",
+        "date": "2025"
+    },
+    {
+        "title": "Data limitations hinder the development of AI-based decision support for the treatment of antibiotic-resistant bacteria",
+        "link": "https://scholar.google.se/citations?view_op=view_citation&hl=sv&user=WauDzPUAAAAJ&sortby=pubdate&citation_for_view=WauDzPUAAAAJ:9c2xU6iGI7YC",
+        "authors": "Anna Johnning, Styrbjörn Käll, Erik Kristiansson",
+        "journal": "Future Microbiology",
+        "abstract": "Our ability to treat and prevent bacterial infections with antibiotics is a cornerstone of modern healthcare. Diseases caused by antibiotic-resistant bacteria are, therefore, recognized as one of the most serious threats to human health worldwide. When treating an infected patient, time is often of the essence, as quickly administering an effective drug lowers the risk of transmission, prolonged illness, and death. Ideally, the selected drug should also precisely target the causative pathogen to minimize the selection for resistance to broadspectrum antibiotics.Diagnostics provide the treating physician with vital information for choosing the most suitable therapy. However, the urgency of life-threatening infections may require immediate action before complete diagnostic results are available. This practice, a form of “empirical treatment”, increases patient mortality and morbidity and leads to unnecessary antibiotic use [1]. The …",
+        "date": "2025"
+    },
+    {
+        "title": "Evaluating Wastewater Surveillance for Estimating Pharmaceutical Use",
+        "link": "https://scholar.google.se/citations?view_op=view_citation&hl=sv&user=WauDzPUAAAAJ&sortby=pubdate&citation_for_view=WauDzPUAAAAJ:DUooU5lO8OsC",
+        "authors": "Gilbert Osena, Jerker Fick, Carl-Fredrik Flach, Erik Kristiansson, DG Joakim Larsson",
+        "journal": "Environment International",
+        "abstract": "Regional medicine use data is key for health management and in understanding many aspects of health, still such data is missing in many parts of the world. Here, we aimed to evaluate how well analyses of active pharmaceutical ingredients (APIs) in untreated municipal wastewater could be used to predict regional use. We studied 53 APIs measured at three wastewater treatment plants (WWTPs) in Stockholm, Sweden between 2004-2021 together with corresponding, comprehensive sales data from hospitals, pharmacies and other outlets as proxy for use. Conversion factors (CFs) representing recovered mass per gram of sold API were generated for each API using data from two WWTPs. Median absolute deviation normalized by the median (MADM) was used to evaluate variability of CFs over the years. While CFs ranged more than two orders of magnitude between different APIs, mass loads recovered in wastewater were equal or less than the estimated daily use for all except one API. The variability of CF estimates was below 100% for 43 APIs. When evaluating the predictive performance of the derived CFs on data from the third WWTP, the typical error was <2-fold for 36 APIs (68%). Neither removal efficiency in WWTPs nor lipophilicity were good predictors of CFs. Our findings suggest that use of most APIs can be estimated from traces measured in wastewater with a typical error of <2-fold. This provides support for the development of wastewater surveillance for estimating medicine use to fill existing data gaps, but also suggest limitations in detecting small changes.",
+        "date": "2025"
+    },
+    {
+        "title": "Development and validation of a new method for predicting spatial and temporal concentration dynamics of active pharmaceutical ingredients in a lake receiving wastewater effluents",
+        "link": "https://scholar.google.se/citations?view_op=view_citation&hl=sv&user=WauDzPUAAAAJ&sortby=pubdate&citation_for_view=WauDzPUAAAAJ:mlAyqtXpCwEC",
+        "authors": "Mikael Gustavsson, Ekaterina Sokolova, Sverker Molander, Prajwol Prajapati, Johan Kjellin, Anna Karlsson, Karin Wiberg, Erik Kristiansson",
+        "journal": "Water Research",
+        "abstract": "Human consumption of pharmaceuticals leads to continuous emissions of active pharmaceutical ingredients (APIs) to the aquatic environment, primarily via wastewater treatment plants (WWTPs). However, temporal and spatial patterns of environmental API concentrations are challenging to assess using conventional chemical measurements. Chemical risk assessments are, consequently, typically based on low-resolution data and often overlook API concentrations of environmental concern. We, therefore, developed a new method, combining emission and hydrodynamic modeling to estimate spatiotemporal variations. The method was applied in a case study in a Swedish lake receiving water from a WWTP (capacity 200,000 person equivalents), including more than 500 prescription APIs. The emission model was validated using ten different APIs measured monthly in the WWTP effluent, and of 103 measured API …",
+        "date": "2025"
+    },
+    {
+        "title": "The transfer of antibiotic resistance genes between evolutionarily distant bacteria",
+        "link": "https://scholar.google.se/citations?view_op=view_citation&hl=sv&user=WauDzPUAAAAJ&sortby=pubdate&citation_for_view=WauDzPUAAAAJ:FAceZFleit8C",
+        "authors": "Marcos Parras-Moltó, David Lund, Stefan Ebmeyer, DG Joakim Larsson, Anna Johnning, Erik Kristiansson",
+        "journal": "mSphere",
+        "abstract": "Infections from antibiotic-resistant bacteria threaten human health globally. Resistance is often caused by mobile antibiotic resistance genes (ARGs) shared horizontally between bacterial genomes. Many ARGs originate from environmental and commensal bacteria and are transferred between divergent bacterial hosts before they reach pathogens. This process remains, however, poorly understood, which complicates the development of countermeasures that reduce the spread of ARGs. In this study, we aimed to systematically analyze the ARGs transferred between the most evolutionarily distant bacteria, defined here based on their phylum. We implemented an algorithm that identified inter-phylum transfers (IPTs) by combining ARG-specific phylogenetic trees with the taxonomy of the bacterial hosts. From the analysis of almost 1 million ARGs identified in >400,000 bacterial genomes, we identified 661 IPTs, which …",
+        "date": "2025"
+    },
+    {
+        "title": "Reply to “Proactive measures help shape the EU candidate list of substances of very high concern”",
+        "link": "https://scholar.google.se/citations?view_op=view_citation&hl=sv&user=WauDzPUAAAAJ&sortby=pubdate&citation_for_view=WauDzPUAAAAJ:dBIO0h50nwkC",
+        "authors": "Gustavsson Mikael Coria Jessica, Kristiansson Erik",
+        "journal": "Nature Communications",
+        "abstract": "No abstract available",
+        "date": "2025"
+    },
+    {
+        "title": "Community-promoted antibiotic resistance genes show increased dissemination among pathogens",
+        "link": "https://scholar.google.se/citations?view_op=view_citation&hl=sv&user=WauDzPUAAAAJ&sortby=pubdate&citation_for_view=WauDzPUAAAAJ:6ZxmRoH8BuwC",
+        "authors": "David Lund, Anna Johnning, Michaela Holmström, Laleh Varghaei, Juan Salvador Inda-Díaz, Johan Bengtsson-Palme, Erik Kristiansson",
+        "journal": "bioRxiv",
+        "abstract": "Antibiotic resistance is increasing among bacterial pathogens, posing one of the most severe threats to future public health. A major contributor to the increasing resistance is the dissemination of mobile antibiotic resistance genes (ARGs) among bacterial communities. These genes are ubiquitously present in various environments and are especially diverse in the human gut and in wastewater. Despite this, the clinical implications of the prevalence of ARGs in these bacterial communities remain unclear. In this study, we aimed to investigate how the abundance of ARGs in human gut and wastewater microbiomes reflects their dissemination among important bacterial pathogens. To do this, we estimated the abundance of >30,000 ARGs, including both well-known (established) and computationally predicted (latent) genes, in >6,000 metagenomic samples. From their prevalence in human gut and wastewater, we identified four major categories of ARGs: co-promoted, human gut (HG)-promoted, wastewater (WW)-promoted, and non-promoted. Our results showed that co-promoted ARGs were, by far, most promiscuous, with an increased frequency of being carried by multiple bacterial phyla, and higher co-localization with broad host range conjugative elements. Co-promoted ARGs were also found to be overrepresented among genes identified in multiple pathogenic species and exhibited an overall higher genetic compatibility, both with pathogens and other typical residents of the human gut and wastewater microbiomes. Taken together, our results highlight the link between the promotion of ARGs in the human gut and wastewater microbiomes and …",
+        "date": "2025"
+    },
+    {
+        "title": "Optimizing Gene-Based Testing for Antibiotic Resistance Prediction",
+        "link": "https://scholar.google.se/citations?view_op=view_citation&hl=sv&user=WauDzPUAAAAJ&sortby=pubdate&citation_for_view=WauDzPUAAAAJ:a9-T7VOCCH8C",
+        "authors": "David Hagerman, Anna Johnning, Roman Naeem, Fredrik Kahl, Erik Kristiansson, Lennart Svensson",
+        "journal": "Proceedings of the AAAI Conference on Artificial Intelligence",
+        "abstract": "Antibiotic Resistance (AR) is a critical global health challenge that necessitates the development of cost-effective, efficient, and accurate diagnostic tools. Given the genetic basis of AR, techniques such as Polymerase Chain Reaction (PCR) that target specific resistance genes offer a promising approach for predictive diagnostics using a limited set of key genes. This study introduces GenoARM, a novel framework that integrates reinforcement learning (RL) with transformer-based models to optimize the selection of PCR gene tests and improve AR predictions, leveraging observed metadata for improved accuracy. In our evaluation, we developed several high-performing baselines and compared them using publicly available datasets derived from real-world bacterial samples representing multiple clinically relevant pathogens. The results show that all evaluated methods achieve strong and reliable performance when metadata is not utilized. When metadata is introduced and the number of selected genes increases, GenoARM demonstrates superior performance due to its capacity to approximate rewards for unseen and sparse combinations. Overall, our framework represents a major advancement in optimizing diagnostic tools for AR in clinical settings.",
+        "date": "2025"
+    },
+    {
+        "title": "Unraveling the origins of mobile antibiotic resistance genes using random forest classification of large-scale genomic data",
+        "link": "https://scholar.google.se/citations?view_op=view_citation&hl=sv&user=WauDzPUAAAAJ&sortby=pubdate&citation_for_view=WauDzPUAAAAJ:4hFrxpcac9AC",
+        "authors": "Stefan Ebmeyer, Erik Kristiansson, DG Joakim Larsson",
+        "journal": "Environment International",
+        "abstract": "Understanding in which environments and under what conditions chromosomal antibiotic resistance genes (ARGs) acquire increased mobility is crucial to effectively mitigate their emergence in and dissemination among pathogens. In order to identify the conditions and environments facilitating these processes, it is valuable to know from which bacterial species mobile ARGs were mobilized initially, before their dissemination to other species. In this study, we used data generated from > 1.5 million publicly available bacterial genome assemblies to train a random forest classifier to identify the origins of mobile genes. Analysis of the models’ predictions revealed the previously unknown origins of 12 mobile ARG groups, which confer resistance to 4 different classes of antibiotics. This included ARGs conferring resistance to tetracyclines, an antibiotic class for which, to the best of our knowledge, no recent origins of …",
+        "date": "2025"
+    },
+    {
+        "title": "Genetic compatibility and ecological connectivity drive the dissemination of antibiotic resistance genes",
+        "link": "https://scholar.google.se/citations?view_op=view_citation&hl=sv&user=WauDzPUAAAAJ&sortby=pubdate&citation_for_view=WauDzPUAAAAJ:_FM0Bhl9EiAC",
+        "authors": "David Lund, Marcos Parras-Moltó, Juan S Inda-Díaz, Stefan Ebmeyer, DG Joakim Larsson, Anna Johnning, Erik Kristiansson",
+        "journal": "Nature Communications",
+        "abstract": "The dissemination of mobile antibiotic resistance genes (ARGs) via horizontal gene transfer is a significant threat to public health globally. The flow of ARGs into and between pathogens, however, remains poorly understood, limiting our ability to develop strategies for managing the antibiotic resistance crisis. Therefore, we aim to identify genetic and ecological factors that are fundamental for successful horizontal ARG transfer. We used a phylogenetic method to identify instances of horizontal ARG transfer in ~1 million bacterial genomes. This data was then integrated with >20,000 metagenomes representing animal, human, soil, water, and wastewater microbiomes to develop random forest models that can reliably predict horizontal ARG transfer between bacteria. Our results suggest that genetic incompatibility, measured as nucleotide composition dissimilarity, negatively influences the likelihood of transfer of ARGs …",
+        "date": "2025"
+    },
+    {
+        "title": "Smudging och dess effekt på miljöreglering.-Snedvridningar av både beslutsunderlag och reglering på kemikalieområdet",
+        "link": "https://scholar.google.se/citations?view_op=view_citation&hl=sv&user=WauDzPUAAAAJ&sortby=pubdate&citation_for_view=WauDzPUAAAAJ:IUKN3-7HHlwC",
+        "authors": "Jessica Coria, Mikael Gustavsson, Magnus Hennlock, Erik Kristiansson, Per Strömberg",
+        "journal": "Unknown",
+        "abstract": "Många miljölagar kräver att bästa tillgängliga vetenskap används som grund för policy-och beslutsfattande. Ett exempel är EU: s klimatstrategi där beslutade utsläppsminskningar baseras på gedigna vetenskapliga studier, och investeringar i klimatforskning har intensifierats för att säkerställa tillräckliga vetenskapliga underlag (se t. ex. Lövbrand 2011).Brist på vetenskaplig information är ett av de största hindren för att utveckla effektiva miljöregleringar. Detta” datagap” är särskilt tydligt vid reglering av kemikalier. Trots lagstiftning som REACH (Registration, Evaluation, Authorisation and Restriction of Chemicals), vilken kräver att företag tillhandahåller data om de kemikalier de producerar, uppskattar NORMAN-nätverket att över 60 000 kemikalier släpps ut i miljön. Majoriteten av dessa ämnen saknar fortfarande tillräckliga data om deras farlighet (Kristiansson et al. 2021). Problemet förvärras av att kemiska blandningar ofta har större effekter än enskilda ämnen, vilket gör riskbedömning särskilt utmanande.",
+        "date": "2025"
+    },
+    {
+        "title": "Computational and statistical considerations in the analysis of metagenomic data",
+        "link": "https://scholar.google.se/citations?view_op=view_citation&hl=sv&user=WauDzPUAAAAJ&sortby=pubdate&citation_for_view=WauDzPUAAAAJ:J-pR_7NvFogC",
+        "authors": "Fredrik Boulund, Mariana Buongermino Pereira, Viktor Jonsson, Erik Kristiansson",
+        "journal": "Unknown",
+        "abstract": "In shotgun metagenomics, microbial communities are studied by sequencing DNA fragments randomly sampled directly from environmental and clinical samples. The resulting data is massive, potentially consisting of billions of sequence reads describing millions of microbial genes. The interpretation of metagenomic data is therefore nontrivial and dependent on dedicated computational and statistical methods. In this chapter, we discuss the many challenges associated with the analysis of shotgun metagenomic data. First, we address computational issues related to the quantification of genes in metagenomes. We describe algorithms for efficient sequence comparisons, recommended practices for setting up data workflows, and modern high-performance computing resources that can be used to perform the analysis. Next, we outline the statistical aspects, including removal of systematic errors and identification of …",
+        "date": "2025"
+    },
+    {
+        "title": "Environmental concentrations of the fungicide tebuconazole alter microbial biodiversity and trigger biofilm-released transformation products",
+        "link": "https://scholar.google.se/citations?view_op=view_citation&hl=sv&user=WauDzPUAAAAJ&sortby=pubdate&citation_for_view=WauDzPUAAAAJ:bz8QjSJIRt4C",
+        "authors": "Daniela Gómez-Martínez, Mary A Selvin, Anders K Nilsson, Eric Carmona, Judith Sorel Ngou, Erik Kristiansson, R Henrik Nilsson, Natàlia Corcoll",
+        "journal": "Chemosphere",
+        "abstract": "Freshwater microbial communities are integral components of riverine biodiversity. The ecological effects of toxic chemical pollutants, such as fungicides (e.g., tebuconazole), on microbial abundance and diversity are needed for risk assessment and regulation. The emergence of RNA metabarcoding approaches allow us to describe at unprecedented resolution the microbial diversity of the active part of a microbial community. Our study assesses the ecotoxicological impact of chronic and acute tebuconazole exposures on fungal, bacterial, and algal biomass and biodiversity of aquatic fungi and bacteria in stream biofilms using an RNA metabarcoding approach. In addition, the study uses HPLC-MS to evaluate the capability of biofilms to metabolize tebuconazole. Natural biofilm communities from a Swedish stream were exposed chronically (24 days) and acutely (96 h) to environmental concentrations of …",
+        "date": "2024"
+    },
+    {
+        "title": "﻿ 20 years of bibliometric data illustrates a lack of concordance between journal impact factor and fungal species discovery in systematic mycology",
+        "link": "https://scholar.google.se/citations?view_op=view_citation&hl=sv&user=WauDzPUAAAAJ&sortby=pubdate&citation_for_view=WauDzPUAAAAJ:GtLg2Ama23sC",
+        "authors": "R Henrik Nilsson, Arnold Tobias Jansson, Christian Wurzbacher, Sten Anslan, Pauline Belford, Natàlia Corcoll, Alexandra Dombrowski, Masoomeh Ghobad-Nejhad, Mikael Gustavsson, Daniela Gómez-Martínez, Faheema Kalsoom Khan, Maryia Khomich, Charlotte Lennartsdotter, David Lund, Breyten Van Der Merwe, Vladimir Mikryukov, Marko Peterson, Teresita M Porter, Sergei Põlme, Alice Retter, Marisol Sanchez-Garcia, Sten Svantesson, Patrik Svedberg, Duong Vu, Martin Ryberg, Kessy Abarenkov, Erik Kristiansson",
+        "journal": "MycoKeys",
+        "abstract": "﻿Abstract Journal impact factors were devised to qualify and compare university library holdings but are frequently repurposed for use in ranking applications, research papers, and even individual applicants in mycology and beyond. The widely held assumption that mycological studies published in journals with high impact factors add more to systematic mycology than studies published in journals without high impact factors nevertheless lacks evidential underpinning. The present study uses the species hypothesis system of the UNITE database for molecular identification of fungi and other eukaryotes to trace the publication history and impact factor of sequences uncovering new fungal species hypotheses. The data show that journal impact factors are poor predictors of discovery potential in systematic mycology. There is no clear relationship between journal impact factor and the discovery of new species …",
+        "date": "2024"
+    },
+    {
+        "title": "Transformers enable accurate prediction of acute and chronic chemical toxicity in aquatic organisms",
+        "link": "https://scholar.google.se/citations?view_op=view_citation&hl=sv&user=WauDzPUAAAAJ&sortby=pubdate&citation_for_view=WauDzPUAAAAJ:ruyezt5ZtCIC",
+        "authors": "Mikael Gustavsson, Styrbjörn Käll, Patrik Svedberg, Juan S Inda-Diaz, Sverker Molander, Jessica Coria, Thomas Backhaus, Erik Kristiansson",
+        "journal": "Science Advances",
+        "abstract": "Environmental hazard assessments are reliant on toxicity data that cover multiple organism groups. Generating experimental toxicity data is, however, resource-intensive and time-consuming. Computational methods are fast and cost-efficient alternatives, but the low accuracy and narrow applicability domains have made their adaptation slow. Here, we present a AI-based model for predicting chemical toxicity. The model uses transformers to capture toxicity-specific features directly from the chemical structures and deep neural networks to predict effect concentrations. The model showed high predictive performance for all tested organism groups—algae, aquatic invertebrates and fish—and has, in comparison to commonly used QSAR methods, a larger applicability domain and a considerably lower error. When the model was trained on data with multiple effect concentrations (EC50/EC10), the performance was …",
+        "date": "2024"
+    },
+    {
+        "title": "The UNITE database for molecular identification and taxonomic communication of fungi and other eukaryotes: sequences, taxa and classifications reconsidered",
+        "link": "https://scholar.google.se/citations?view_op=view_citation&hl=sv&user=WauDzPUAAAAJ&sortby=pubdate&citation_for_view=WauDzPUAAAAJ:PVjk1bu6vJQC",
+        "authors": "Kessy Abarenkov, R Henrik Nilsson, Karl-Henrik Larsson, Andy FS Taylor, Tom W May, Tobias Guldberg Frøslev, Julia Pawlowska, Björn Lindahl, Kadri Põldmaa, Camille Truong, Duong Vu, Tsuyoshi Hosoya, Tuula Niskanen, Timo Piirmann, Filipp Ivanov, Allan Zirk, Marko Peterson, Tanya E Cheeke, Yui Ishigami, Arnold Tobias Jansson, Thomas Stjernegaard Jeppesen, Erik Kristiansson, Vladimir Mikryukov, Joseph T Miller, Ryoko Oono, Francisco J Ossandon, Joana Paupério, Irja Saar, Dmitry Schigel, Ave Suija, Leho Tedersoo, Urmas Kõljalg",
+        "journal": "Nucleic Acids Research",
+        "abstract": "UNITE (https://unite.ut.ee) is a web-based database and sequence management environment for molecular identification of eukaryotes. It targets the nuclear ribosomal internal transcribed spacer (ITS) region and offers nearly 10 million such sequences for reference. These are clustered into ∼2.4M species hypotheses (SHs), each assigned a unique digital object identifier (DOI) to promote unambiguous referencing across studies. UNITE users have contributed over 600 000 third-party sequence annotations, which are shared with a range of databases and other community resources. Recent improvements facilitate the detection of cross-kingdom biological associations and the integration of undescribed groups of organisms into everyday biological pursuits. Serving as a digital twin for eukaryotic biodiversity and communities worldwide, the latest release of UNITE offers improved avenues for biodiversity …",
+        "date": "2024"
+    },
+    {
+        "title": "Dataset on aquatic ecotoxicity predictions of 2697 chemicals, using three quantitative structure-activity relationship platforms",
+        "link": "https://scholar.google.se/citations?view_op=view_citation&hl=sv&user=WauDzPUAAAAJ&sortby=pubdate&citation_for_view=WauDzPUAAAAJ:5qfkUJPXOUwC",
+        "authors": "Patrik Svedberg, Pedro A Inostroza, Mikael Gustavsson, Erik Kristiansson, Francis Spilsbury, Thomas Backhaus",
+        "journal": "Data in Brief",
+        "abstract": "Empirical and in silico data on the aquatic ecotoxicology of 2697 organic chemicals were collected in order to compile a dataset for assessing the predictive power of current Quantitative Structure Activity Relationship (QSAR) models and software platforms. This document presents the dataset and the data pipeline for its creation. Empirical data were collected from the US EPA ECOTOX Knowledgebase (ECOTOX) and the EFSA (European Food Safety Authority) report “Completion of data entry of pesticide ecotoxicology Tier 1 study endpoints in a XML schema – database”. Only data for OECD recommended algae, daphnia and fish species were retained. QSAR toxicity predictions were calculated for each chemical and each of six endpoints using ECOSAR, VEGA and the Toxicity Estimation Software Tool (T.E.S.T.) platforms. Finally, the dataset was amended with SMILES, InChIKey, pKa and logP collected from …",
+        "date": "2023"
+    },
+    {
+        "title": "Understudied and ignored antibiotic resistance genes are widespread in numerous environments",
+        "link": "https://scholar.google.se/citations?view_op=view_citation&hl=sv&user=WauDzPUAAAAJ&sortby=pubdate&citation_for_view=WauDzPUAAAAJ:ClCfbGk0d_YC",
+        "authors": "Juan Salvador Inda-Díaz, David Lund, Marcos Parras-Moltó, Anna Johnning, Johan Bengtsson-Palme, Erik Kristiansson",
+        "journal": "Unknown",
+        "abstract": "Bacteria becoming resistant to antibiotics is a growing global problem for humans and animals alike. Heavy antibiotic use drives the selection of antibiotic resistance genes (ARGs) in bacterial communities. ARGs can be shared between individual bacterial cells, and the collective pool of ARGs in a bacterial community is called its resistome. Much of the current research depends on databases of well-studied ARGs, while uncharacterized ARGs are largely ignored. So, researchers recently complemented the well-studied ARGs with uncharacterized ('latent') ARGs to create a more comprehensive database. The latent ARGs were ubiquitous across a wide range of environments from the human gut to the ocean. Resistomes were dominated by latent ARGs, of which many were abundant and commonly encountered in bacteria. Several latent ARGs were found to be transferred between multiple environments. Several …",
+        "date": "2023"
+    },
+    {
+        "title": "Extensive screening reveals previously undiscovered aminoglycoside resistance genes in human pathogens",
+        "link": "https://scholar.google.se/citations?view_op=view_citation&hl=sv&user=WauDzPUAAAAJ&sortby=pubdate&citation_for_view=WauDzPUAAAAJ:FPJr55Dyh1AC",
+        "authors": "David Lund, Roelof Dirk Coertze, Marcos Parras-Moltó, Fanny Berglund, Carl-Fredrik Flach, Anna Johnning, DG Joakim Larsson, Erik Kristiansson",
+        "journal": "Communications Biology",
+        "abstract": "Antibiotic resistance is a growing threat to human health, caused in part by pathogens accumulating antibiotic resistance genes (ARGs) through horizontal gene transfer. New ARGs are typically not recognized until they have become widely disseminated, which limits our ability to reduce their spread. In this study, we use large-scale computational screening of bacterial genomes to identify previously undiscovered mobile ARGs in pathogens. From ~1 million genomes, we predict 1,071,815 genes encoding 34,053 unique aminoglycoside-modifying enzymes (AMEs). These cluster into 7,612 families (<70% amino acid identity) of which 88 are previously described. Fifty new AME families are associated with mobile genetic elements and pathogenic hosts. From these, 24 of 28 experimentally tested AMEs confer resistance to aminoglycoside(s) in Escherichia coli, with 17 providing resistance above clinical breakpoints …",
+        "date": "2023"
+    },
+    {
+        "title": "Phenotypic and transcriptomic acclimation of the green microalga Raphidocelis subcapitata to high environmental levels of the herbicide diflufenican",
+        "link": "https://scholar.google.se/citations?view_op=view_citation&hl=sv&user=WauDzPUAAAAJ&sortby=pubdate&citation_for_view=WauDzPUAAAAJ:Dip1O2bNi0gC",
+        "authors": "Daniela Gómez-Martínez, Johanna Bengtson, Anders K Nilsson, Adrian K Clarke, Rolf Henrik Nilsson, Erik Kristiansson, Natàlia Corcoll",
+        "journal": "Science of the Total Environment",
+        "abstract": "Herbicide pollution poses a worldwide threat to plants and freshwater ecosystems. However, the understanding of how organisms develop tolerance to these chemicals and the associated trade-off expenses are largely unknown. This study aims to investigate the physiological and transcriptional mechanisms underlying the acclimation of the green microalgal model species Raphidocelis subcapitata (Selenastraceae) towards the herbicide diflufenican, and the fitness costs associated with tolerance development. Algae were exposed for 12 weeks (corresponding to 100 generations) to diflufenican at the two environmental concentrations 10 and 310 ng/L. The monitoring of growth, pigment composition, and photosynthetic performance throughout the experiment revealed an initial dose-dependent stress phase (week 1) with an EC50 of 397 ng/L, followed by a time-dependent recovery phase during weeks 2 to 4 …",
+        "date": "2023"
+    }
+]
