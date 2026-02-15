@@ -1,5 +1,21 @@
 [
     {
+        "title": "Antibiotic resistance gradient along a large Scandinavian river influenced by wastewater treatment plants",
+        "link": "https://scholar.google.se/citations?view_op=view_citation&hl=sv&user=WauDzPUAAAAJ&sortby=pubdate&citation_for_view=WauDzPUAAAAJ:DJbcl8HfkQkC",
+        "authors": "Daniela Gómez-Martínez, Judith Sorel Ngou, Valentina Ugolini, Foon Yin Lai, R Henrik Nilsson, Erik Kristiansson, Natàlia Corcoll",
+        "journal": "FEMS Microbiology Ecology",
+        "abstract": "Recent studies have identified the environment as a key reservoir from which antibiotic resistance genes (ARGs) can be acquired and transmitted to pathogens. However, our knowledge about the presence of ARGs in high-flow river sediments is still limited. We analyzed the resistome of sediment bacterial communities along the Swedish river Göta Älv and investigated the potential dissemination of ARGs and antimicrobials from effluents of wastewater treatment plants (WWTPs). While we detected nine different antimicrobials in the effluent water from the WWTPs through HPLC-MS, their presence was not observed in river surface water. Analysis by qPCR revealed that the genes sul1 and ermB were the most dominant ARGs among sediment, sludge, and effluent samples. Shotgun metagenomics revealed unique differences between the sludge resistomes of the WWTPs. Moreover, our findings show that ARGs …",
+        "date": "2026"
+    },
+    {
+        "title": "Confidence-based prediction of antibiotic resistance at the patient level",
+        "link": "https://scholar.google.se/citations?view_op=view_citation&hl=sv&user=WauDzPUAAAAJ&sortby=pubdate&citation_for_view=WauDzPUAAAAJ:cWzG1nlazyYC",
+        "authors": "Juan S Inda-Díaz, Anna Johnning, Magnus Hessel, Anders Sjöberg, Anna Lokrantz, Lisa Helldal, Mats Jirstrand, Lennart Svensson, Erik Kristiansson",
+        "journal": "mBio",
+        "abstract": "Rapid and accurate diagnostics of bacterial infections are necessary for efficient treatment of antibiotic-resistant pathogens. Cultivation-based methods, such as antibiotic susceptibility testing (AST), are limited by bacterial growth rates and seldom yield results before treatment needs to start, increasing patient risk and contributing to antibiotic overprescription. Here, we present a deep-learning method that leverages patient data and available AST results to predict antibiotic susceptibilities that have not yet been measured. After training on three million AST results from 30 European countries, the method achieved an average accuracy of 93% across bacterial species and antibiotics. It predicted susceptibility with an average major error rate below 5% for quinolones, cephalosporins, and carbapenems, and below 8% and 14% for aminoglycosides and penicillins, respectively. Furthermore, the model predicted …",
+        "date": "2026"
+    },
+    {
         "title": "Strain-Level Typing of Streptococcus pyogenes Using Optical DNA Mapping",
         "link": "https://scholar.google.se/citations?view_op=view_citation&hl=sv&user=WauDzPUAAAAJ&sortby=pubdate&citation_for_view=WauDzPUAAAAJ:QYdC8u9Cj1oC",
         "authors": "Radhika N Kunnath, Zahra Abbaspour, Anna Johnning, Karolin Frykholm, Marie Wrande, Albertas Dvirnas, Sriram Kk, Christian G Giske, Tobias Ambjörnsson, Linus Sandegren, Erik Kristiansson, Fredrik Westerlund",
@@ -141,22 +157,6 @@
         "authors": "Juan Salvador Inda-Díaz, David Lund, Marcos Parras-Moltó, Anna Johnning, Johan Bengtsson-Palme, Erik Kristiansson",
         "journal": "Unknown",
         "abstract": "Bacteria becoming resistant to antibiotics is a growing global problem for humans and animals alike. Heavy antibiotic use drives the selection of antibiotic resistance genes (ARGs) in bacterial communities. ARGs can be shared between individual bacterial cells, and the collective pool of ARGs in a bacterial community is called its resistome. Much of the current research depends on databases of well-studied ARGs, while uncharacterized ARGs are largely ignored. So, researchers recently complemented the well-studied ARGs with uncharacterized ('latent') ARGs to create a more comprehensive database. The latent ARGs were ubiquitous across a wide range of environments from the human gut to the ocean. Resistomes were dominated by latent ARGs, of which many were abundant and commonly encountered in bacteria. Several latent ARGs were found to be transferred between multiple environments. Several …",
-        "date": "2023"
-    },
-    {
-        "title": "Extensive screening reveals previously undiscovered aminoglycoside resistance genes in human pathogens",
-        "link": "https://scholar.google.se/citations?view_op=view_citation&hl=sv&user=WauDzPUAAAAJ&sortby=pubdate&citation_for_view=WauDzPUAAAAJ:FPJr55Dyh1AC",
-        "authors": "David Lund, Roelof Dirk Coertze, Marcos Parras-Moltó, Fanny Berglund, Carl-Fredrik Flach, Anna Johnning, DG Joakim Larsson, Erik Kristiansson",
-        "journal": "Communications Biology",
-        "abstract": "Antibiotic resistance is a growing threat to human health, caused in part by pathogens accumulating antibiotic resistance genes (ARGs) through horizontal gene transfer. New ARGs are typically not recognized until they have become widely disseminated, which limits our ability to reduce their spread. In this study, we use large-scale computational screening of bacterial genomes to identify previously undiscovered mobile ARGs in pathogens. From ~1 million genomes, we predict 1,071,815 genes encoding 34,053 unique aminoglycoside-modifying enzymes (AMEs). These cluster into 7,612 families (<70% amino acid identity) of which 88 are previously described. Fifty new AME families are associated with mobile genetic elements and pathogenic hosts. From these, 24 of 28 experimentally tested AMEs confer resistance to aminoglycoside(s) in Escherichia coli, with 17 providing resistance above clinical breakpoints …",
-        "date": "2023"
-    },
-    {
-        "title": "Phenotypic and transcriptomic acclimation of the green microalga Raphidocelis subcapitata to high environmental levels of the herbicide diflufenican",
-        "link": "https://scholar.google.se/citations?view_op=view_citation&hl=sv&user=WauDzPUAAAAJ&sortby=pubdate&citation_for_view=WauDzPUAAAAJ:Dip1O2bNi0gC",
-        "authors": "Daniela Gómez-Martínez, Johanna Bengtson, Anders K Nilsson, Adrian K Clarke, Rolf Henrik Nilsson, Erik Kristiansson, Natàlia Corcoll",
-        "journal": "Science of the Total Environment",
-        "abstract": "Herbicide pollution poses a worldwide threat to plants and freshwater ecosystems. However, the understanding of how organisms develop tolerance to these chemicals and the associated trade-off expenses are largely unknown. This study aims to investigate the physiological and transcriptional mechanisms underlying the acclimation of the green microalgal model species Raphidocelis subcapitata (Selenastraceae) towards the herbicide diflufenican, and the fitness costs associated with tolerance development. Algae were exposed for 12 weeks (corresponding to 100 generations) to diflufenican at the two environmental concentrations 10 and 310 ng/L. The monitoring of growth, pigment composition, and photosynthetic performance throughout the experiment revealed an initial dose-dependent stress phase (week 1) with an EC50 of 397 ng/L, followed by a time-dependent recovery phase during weeks 2 to 4 …",
         "date": "2023"
     }
 ]
