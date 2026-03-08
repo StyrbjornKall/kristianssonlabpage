@@ -4,7 +4,7 @@
         "link": "https://scholar.google.se/citations?view_op=view_citation&hl=sv&user=WauDzPUAAAAJ&sortby=pubdate&citation_for_view=WauDzPUAAAAJ:DJbcl8HfkQkC",
         "authors": "Daniela Gómez-Martínez, Judith Sorel Ngou, Valentina Ugolini, Foon Yin Lai, R Henrik Nilsson, Erik Kristiansson, Natàlia Corcoll",
         "journal": "FEMS Microbiology Ecology",
-        "abstract": "Recent studies have identified the environment as a key reservoir from which antibiotic resistance genes (ARGs) can be acquired and transmitted to pathogens. However, our knowledge about the presence of ARGs in high-flow river sediments is still limited. We analyzed the resistome of sediment bacterial communities along the Swedish river Göta Älv and investigated the potential dissemination of ARGs and antimicrobials from effluents of wastewater treatment plants (WWTPs). While we detected nine different antimicrobials in the effluent water from the WWTPs through HPLC-MS, their presence was not observed in river surface water. Analysis by qPCR revealed that the genes sul1 and ermB were the most dominant ARGs among sediment, sludge, and effluent samples. Shotgun metagenomics revealed unique differences between the sludge resistomes of the WWTPs. Moreover, our findings show that ARGs …",
+        "abstract": "Recent studies have identified the environment as a key reservoir from which antibiotic resistance genes (ARGs) can be acquired and transmitted to pathogens. However, our knowledge about the presence of ARGs in high-flow river sediments is still limited. We analyzed the resistome of sediment bacterial communities along the Swedish river Göta Älv and investigated the potential dissemination of ARGs and antimicrobials from effluents of wastewater treatment plants (WWTPs). While we detected nine different antimicrobials in the effluent water from the WWTPs through HPLC-MS, their presence was not observed in the river surface water. Analysis by qPCR revealed that the genes sul1 and ermB were the most dominant ARGs among sediment, sludge, and effluent samples. Shotgun metagenomics revealed unique differences between the sludge resistomes of the WWTPs. Moreover, our findings show that …",
         "date": "2026"
     },
     {
@@ -36,7 +36,31 @@
         "link": "https://scholar.google.se/citations?view_op=view_citation&hl=sv&user=WauDzPUAAAAJ&sortby=pubdate&citation_for_view=WauDzPUAAAAJ:DUooU5lO8OsC",
         "authors": "Gilbert Osena, Jerker Fick, Carl-Fredrik Flach, Erik Kristiansson, DG Joakim Larsson",
         "journal": "Environment International",
-        "abstract": "Regional medicine use data is key for health management and in understanding many aspects of health, still such data is missing in many parts of the world. Here, we aimed to evaluate how well analyses of active pharmaceutical ingredients (APIs) in untreated municipal wastewater could be used to predict regional use. We studied 53 APIs measured at three wastewater treatment plants (WWTPs) in Stockholm, Sweden between 2004-2021 together with corresponding, comprehensive sales data from hospitals, pharmacies and other outlets as proxy for use. Conversion factors (CFs) representing recovered mass per gram of sold API were generated for each API using data from two WWTPs. Median absolute deviation normalized by the median (MADM) was used to evaluate variability of CFs over the years. While CFs ranged more than two orders of magnitude between different APIs, mass loads recovered in wastewater were equal or less than the estimated daily use for all except one API. The variability of CF estimates was below 100% for 43 APIs. When evaluating the predictive performance of the derived CFs on data from the third WWTP, the typical error was <2-fold for 36 APIs (68%). Neither removal efficiency in WWTPs nor lipophilicity were good predictors of CFs. Our findings suggest that use of most APIs can be estimated from traces measured in wastewater with a typical error of <2-fold. This provides support for the development of wastewater surveillance for estimating medicine use to fill existing data gaps, but also suggest limitations in detecting small changes.",
+        "abstract": "Regional medicine use data is key for health management and in understanding many aspects of health, still such data is missing in many parts of the world. Here, we aimed to evaluate how well analyses of active pharmaceutical ingredients (APIs) in untreated municipal wastewater could be used to predict regional use. We studied 53 APIs measured at three wastewater treatment plants (WWTPs) in Stockholm, Sweden between 2004–2021 together with corresponding, comprehensive sales data from hospitals, pharmacies and other outlets as proxy for use. Conversion factors (CFs) representing recovered mass per gram of sold API were generated for each API using data from two WWTPs. Median absolute deviation normalized by the median (MADM) was used to evaluate variability of CFs over the years. While CFs ranged more than two orders of magnitude between different APIs, mass loads recovered in …",
+        "date": "2025"
+    },
+    {
+        "title": "Glucose tolerance and metabolic health in relation to stress and sleep patterns four years after gestational diabetes: the PREPP study",
+        "link": "https://scholar.google.se/citations?view_op=view_citation&hl=sv&user=WauDzPUAAAAJ&sortby=pubdate&citation_for_view=WauDzPUAAAAJ:OR75R8vi5nAC",
+        "authors": "U Andersson Hall, E Kristiansson, S Aberg, K Wallenius, A Holmang",
+        "journal": "Unknown",
+        "abstract": "No abstract available",
+        "date": "2025"
+    },
+    {
+        "title": "Proteomics, aerobic fitness, and muscle strength in relation to glucose metabolism 10 years after gestational diabetes",
+        "link": "https://scholar.google.se/citations?view_op=view_citation&hl=sv&user=WauDzPUAAAAJ&sortby=pubdate&citation_for_view=WauDzPUAAAAJ:OcBU2YAGkTUC",
+        "authors": "E Kristiansson, A Holmang, S Chung, K Wallenius, U Andersson Hall",
+        "journal": "Unknown",
+        "abstract": "No abstract available",
+        "date": "2025"
+    },
+    {
+        "title": "Dietary intake and body composition in 3-year-old offspring of mothers with gestational diabetes: insights from the PONCH cohort",
+        "link": "https://scholar.google.se/citations?view_op=view_citation&hl=sv&user=WauDzPUAAAAJ&sortby=pubdate&citation_for_view=WauDzPUAAAAJ:ODE9OILHJdcC",
+        "authors": "S Aberg, U Andersson Hall, E Kristiansson, A Holmang",
+        "journal": "Unknown",
+        "abstract": "No abstract available",
         "date": "2025"
     },
     {
@@ -51,7 +75,7 @@
         "title": "The transfer of antibiotic resistance genes between evolutionarily distant bacteria",
         "link": "https://scholar.google.se/citations?view_op=view_citation&hl=sv&user=WauDzPUAAAAJ&sortby=pubdate&citation_for_view=WauDzPUAAAAJ:FAceZFleit8C",
         "authors": "Marcos Parras-Moltó, David Lund, Stefan Ebmeyer, DG Joakim Larsson, Anna Johnning, Erik Kristiansson",
-        "journal": "mSphere",
+        "journal": "Msphere",
         "abstract": "Infections from antibiotic-resistant bacteria threaten human health globally. Resistance is often caused by mobile antibiotic resistance genes (ARGs) shared horizontally between bacterial genomes. Many ARGs originate from environmental and commensal bacteria and are transferred between divergent bacterial hosts before they reach pathogens. This process remains, however, poorly understood, which complicates the development of countermeasures that reduce the spread of ARGs. In this study, we aimed to systematically analyze the ARGs transferred between the most evolutionarily distant bacteria, defined here based on their phylum. We implemented an algorithm that identified inter-phylum transfers (IPTs) by combining ARG-specific phylogenetic trees with the taxonomy of the bacterial hosts. From the analysis of almost 1 million ARGs identified in >400,000 bacterial genomes, we identified 661 IPTs, which …",
         "date": "2025"
     },
@@ -72,7 +96,7 @@
         "date": "2025"
     },
     {
-        "title": "Optimizing Gene-Based Testing for Antibiotic Resistance Prediction",
+        "title": "Optimizing gene-based testing for antibiotic resistance prediction",
         "link": "https://scholar.google.se/citations?view_op=view_citation&hl=sv&user=WauDzPUAAAAJ&sortby=pubdate&citation_for_view=WauDzPUAAAAJ:a9-T7VOCCH8C",
         "authors": "David Hagerman, Anna Johnning, Roman Naeem, Fredrik Kahl, Erik Kristiansson, Lennart Svensson",
         "journal": "Proceedings of the AAAI Conference on Artificial Intelligence",
@@ -134,29 +158,5 @@
         "journal": "Science Advances",
         "abstract": "Environmental hazard assessments are reliant on toxicity data that cover multiple organism groups. Generating experimental toxicity data is, however, resource-intensive and time-consuming. Computational methods are fast and cost-efficient alternatives, but the low accuracy and narrow applicability domains have made their adaptation slow. Here, we present a AI-based model for predicting chemical toxicity. The model uses transformers to capture toxicity-specific features directly from the chemical structures and deep neural networks to predict effect concentrations. The model showed high predictive performance for all tested organism groups—algae, aquatic invertebrates and fish—and has, in comparison to commonly used QSAR methods, a larger applicability domain and a considerably lower error. When the model was trained on data with multiple effect concentrations (EC50/EC10), the performance was …",
         "date": "2024"
-    },
-    {
-        "title": "The UNITE database for molecular identification and taxonomic communication of fungi and other eukaryotes: sequences, taxa and classifications reconsidered",
-        "link": "https://scholar.google.se/citations?view_op=view_citation&hl=sv&user=WauDzPUAAAAJ&sortby=pubdate&citation_for_view=WauDzPUAAAAJ:PVjk1bu6vJQC",
-        "authors": "Kessy Abarenkov, R Henrik Nilsson, Karl-Henrik Larsson, Andy FS Taylor, Tom W May, Tobias Guldberg Frøslev, Julia Pawlowska, Björn Lindahl, Kadri Põldmaa, Camille Truong, Duong Vu, Tsuyoshi Hosoya, Tuula Niskanen, Timo Piirmann, Filipp Ivanov, Allan Zirk, Marko Peterson, Tanya E Cheeke, Yui Ishigami, Arnold Tobias Jansson, Thomas Stjernegaard Jeppesen, Erik Kristiansson, Vladimir Mikryukov, Joseph T Miller, Ryoko Oono, Francisco J Ossandon, Joana Paupério, Irja Saar, Dmitry Schigel, Ave Suija, Leho Tedersoo, Urmas Kõljalg",
-        "journal": "Nucleic Acids Research",
-        "abstract": "UNITE (https://unite.ut.ee) is a web-based database and sequence management environment for molecular identification of eukaryotes. It targets the nuclear ribosomal internal transcribed spacer (ITS) region and offers nearly 10 million such sequences for reference. These are clustered into ∼2.4M species hypotheses (SHs), each assigned a unique digital object identifier (DOI) to promote unambiguous referencing across studies. UNITE users have contributed over 600 000 third-party sequence annotations, which are shared with a range of databases and other community resources. Recent improvements facilitate the detection of cross-kingdom biological associations and the integration of undescribed groups of organisms into everyday biological pursuits. Serving as a digital twin for eukaryotic biodiversity and communities worldwide, the latest release of UNITE offers improved avenues for biodiversity …",
-        "date": "2024"
-    },
-    {
-        "title": "Dataset on aquatic ecotoxicity predictions of 2697 chemicals, using three quantitative structure-activity relationship platforms",
-        "link": "https://scholar.google.se/citations?view_op=view_citation&hl=sv&user=WauDzPUAAAAJ&sortby=pubdate&citation_for_view=WauDzPUAAAAJ:5qfkUJPXOUwC",
-        "authors": "Patrik Svedberg, Pedro A Inostroza, Mikael Gustavsson, Erik Kristiansson, Francis Spilsbury, Thomas Backhaus",
-        "journal": "Data in Brief",
-        "abstract": "Empirical and in silico data on the aquatic ecotoxicology of 2697 organic chemicals were collected in order to compile a dataset for assessing the predictive power of current Quantitative Structure Activity Relationship (QSAR) models and software platforms. This document presents the dataset and the data pipeline for its creation. Empirical data were collected from the US EPA ECOTOX Knowledgebase (ECOTOX) and the EFSA (European Food Safety Authority) report “Completion of data entry of pesticide ecotoxicology Tier 1 study endpoints in a XML schema – database”. Only data for OECD recommended algae, daphnia and fish species were retained. QSAR toxicity predictions were calculated for each chemical and each of six endpoints using ECOSAR, VEGA and the Toxicity Estimation Software Tool (T.E.S.T.) platforms. Finally, the dataset was amended with SMILES, InChIKey, pKa and logP collected from …",
-        "date": "2023"
-    },
-    {
-        "title": "Understudied and ignored antibiotic resistance genes are widespread in numerous environments",
-        "link": "https://scholar.google.se/citations?view_op=view_citation&hl=sv&user=WauDzPUAAAAJ&sortby=pubdate&citation_for_view=WauDzPUAAAAJ:ClCfbGk0d_YC",
-        "authors": "Juan Salvador Inda-Díaz, David Lund, Marcos Parras-Moltó, Anna Johnning, Johan Bengtsson-Palme, Erik Kristiansson",
-        "journal": "Unknown",
-        "abstract": "Bacteria becoming resistant to antibiotics is a growing global problem for humans and animals alike. Heavy antibiotic use drives the selection of antibiotic resistance genes (ARGs) in bacterial communities. ARGs can be shared between individual bacterial cells, and the collective pool of ARGs in a bacterial community is called its resistome. Much of the current research depends on databases of well-studied ARGs, while uncharacterized ARGs are largely ignored. So, researchers recently complemented the well-studied ARGs with uncharacterized ('latent') ARGs to create a more comprehensive database. The latent ARGs were ubiquitous across a wide range of environments from the human gut to the ocean. Resistomes were dominated by latent ARGs, of which many were abundant and commonly encountered in bacteria. Several latent ARGs were found to be transferred between multiple environments. Several …",
-        "date": "2023"
     }
 ]
