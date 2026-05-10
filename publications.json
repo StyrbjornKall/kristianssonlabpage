@@ -1,10 +1,18 @@
 [
     {
+        "title": "Antibiotic resistance gene analyses in microbial communities: challenges and opportunities",
+        "link": "https://scholar.google.se/citations?view_op=view_citation&hl=sv&user=WauDzPUAAAAJ&sortby=pubdate&citation_for_view=WauDzPUAAAAJ:3htObqc8RwsC",
+        "authors": "DG Joakim Larsson, Carl-Fredrik Flach, Erik Kristiansson",
+        "journal": "nature communications",
+        "abstract": "There is an increasing interest in studying antibiotic resistance genes in microbial communities, however, there is no unified way to identify them in metagenomics datasets or to interpret the risks associated with them. In this Comment, the authors discuss current technical challenges and how to mitigate them.",
+        "date": "2026"
+    },
+    {
         "title": "Antibiotic resistance gradient along a large Scandinavian river influenced by wastewater treatment plants",
         "link": "https://scholar.google.se/citations?view_op=view_citation&hl=sv&user=WauDzPUAAAAJ&sortby=pubdate&citation_for_view=WauDzPUAAAAJ:DJbcl8HfkQkC",
         "authors": "Daniela Gómez-Martínez, Judith Sorel Ngou, Valentina Ugolini, Foon Yin Lai, R Henrik Nilsson, Erik Kristiansson, Natàlia Corcoll",
         "journal": "FEMS Microbiology Ecology",
-        "abstract": "Recent studies have identified the environment as a key reservoir from which antibiotic resistance genes (ARGs) can be acquired and transmitted to pathogens. However, our knowledge about the presence of ARGs in high-flow river sediments is still limited. We analyzed the resistome of sediment bacterial communities along the Swedish river Göta Älv and investigated the potential dissemination of ARGs and antimicrobials from effluents of wastewater treatment plants (WWTPs). While we detected nine different antimicrobials in the effluent water from the WWTPs through HPLC-MS, their presence was not observed in river surface water. Analysis by qPCR revealed that the genes sul1 and ermB were the most dominant ARGs among sediment, sludge, and effluent samples. Shotgun metagenomics revealed unique differences between the sludge resistomes of the WWTPs. Moreover, our findings show that ARGs …",
+        "abstract": "Recent studies have identified the environment as a key reservoir from which antibiotic resistance genes (ARGs) can be acquired and transmitted to pathogens. However, our knowledge about the presence of ARGs in high-flow river sediments is still limited. We analyzed the resistome of sediment bacterial communities along the Swedish river Göta Älv and investigated the potential dissemination of ARGs and antimicrobials from effluents of wastewater treatment plants (WWTPs). While we detected nine different antimicrobials in the effluent water from the WWTPs through HPLC-MS, their presence was not observed in the river surface water. Analysis by qPCR revealed that the genes sul1 and ermB were the most dominant ARGs among sediment, sludge, and effluent samples. Shotgun metagenomics revealed unique differences between the sludge resistomes of the WWTPs. Moreover, our findings show that …",
         "date": "2026"
     },
     {
@@ -37,30 +45,6 @@
         "authors": "Gilbert Osena, Jerker Fick, Carl-Fredrik Flach, Erik Kristiansson, DG Joakim Larsson",
         "journal": "Environment International",
         "abstract": "Regional medicine use data is key for health management and in understanding many aspects of health, still such data is missing in many parts of the world. Here, we aimed to evaluate how well analyses of active pharmaceutical ingredients (APIs) in untreated municipal wastewater could be used to predict regional use. We studied 53 APIs measured at three wastewater treatment plants (WWTPs) in Stockholm, Sweden between 2004–2021 together with corresponding, comprehensive sales data from hospitals, pharmacies and other outlets as proxy for use. Conversion factors (CFs) representing recovered mass per gram of sold API were generated for each API using data from two WWTPs. Median absolute deviation normalized by the median (MADM) was used to evaluate variability of CFs over the years. While CFs ranged more than two orders of magnitude between different APIs, mass loads recovered in …",
-        "date": "2025"
-    },
-    {
-        "title": "Glucose tolerance and metabolic health in relation to stress and sleep patterns four years after gestational diabetes: the PREPP study",
-        "link": "https://scholar.google.se/citations?view_op=view_citation&hl=sv&user=WauDzPUAAAAJ&sortby=pubdate&citation_for_view=WauDzPUAAAAJ:OR75R8vi5nAC",
-        "authors": "U Andersson Hall, E Kristiansson, S Aberg, K Wallenius, A Holmang",
-        "journal": "Unknown",
-        "abstract": "No abstract available",
-        "date": "2025"
-    },
-    {
-        "title": "Proteomics, aerobic fitness, and muscle strength in relation to glucose metabolism 10 years after gestational diabetes",
-        "link": "https://scholar.google.se/citations?view_op=view_citation&hl=sv&user=WauDzPUAAAAJ&sortby=pubdate&citation_for_view=WauDzPUAAAAJ:OcBU2YAGkTUC",
-        "authors": "E Kristiansson, A Holmang, S Chung, K Wallenius, U Andersson Hall",
-        "journal": "Unknown",
-        "abstract": "No abstract available",
-        "date": "2025"
-    },
-    {
-        "title": "Dietary intake and body composition in 3-year-old offspring of mothers with gestational diabetes: insights from the PONCH cohort",
-        "link": "https://scholar.google.se/citations?view_op=view_citation&hl=sv&user=WauDzPUAAAAJ&sortby=pubdate&citation_for_view=WauDzPUAAAAJ:ODE9OILHJdcC",
-        "authors": "S Aberg, U Andersson Hall, E Kristiansson, A Holmang",
-        "journal": "Unknown",
-        "abstract": "No abstract available",
         "date": "2025"
     },
     {
@@ -120,6 +104,14 @@
         "date": "2025"
     },
     {
+        "title": "Optimizing Gene-Based Testing for Antibiotic Resistance Prediction",
+        "link": "https://scholar.google.se/citations?view_op=view_citation&hl=sv&user=WauDzPUAAAAJ&sortby=pubdate&citation_for_view=WauDzPUAAAAJ:OP4eGU-M3BUC",
+        "authors": "David Hagerman Olzon, Anna Johnning, Roman Naeem, Fredrik Kahl, Erik Kristiansson, Lennart Svensson",
+        "journal": "Proceedings of the AAAI Conference on Artificial Intelligence",
+        "abstract": "Antibiotic Resistance (AR) is a critical global health challenge that necessitates the development of cost-effective, efficient, and accurate diagnostic tools. Given the genetic basis of AR, techniques such as Polymerase Chain Reaction (PCR) that target specific resistance genes offer a promising approach for predictive diagnostics using a limited set of key genes. This study introduces GenoARM, a novel framework that integrates reinforcement learning (RL) with transformer-based models to optimize the selection of PCR gene tests and improve AR predictions, leveraging observed metadata for improved accuracy. In our evaluation, we developed several high-performing baselines and compared them using publicly available datasets derived from real-world bacterial samples representing multiple clinically relevant pathogens. The results show that all evaluated methods achieve strong and reliable performance when metadata is not utilized. When metadata is introduced and the number of selected genes increases, GenoARM demonstrates superior performance due to its capacity to approximate rewards for unseen and sparse combinations. Overall, our framework represents a major advancement in optimizing diagnostic tools for AR in clinical settings.",
+        "date": "2025"
+    },
+    {
         "title": "Smudging och dess effekt på miljöreglering.-Snedvridningar av både beslutsunderlag och reglering på kemikalieområdet",
         "link": "https://scholar.google.se/citations?view_op=view_citation&hl=sv&user=WauDzPUAAAAJ&sortby=pubdate&citation_for_view=WauDzPUAAAAJ:IUKN3-7HHlwC",
         "authors": "Jessica Coria, Mikael Gustavsson, Magnus Hennlock, Erik Kristiansson, Per Strömberg",
@@ -157,6 +149,14 @@
         "authors": "Mikael Gustavsson, Styrbjörn Käll, Patrik Svedberg, Juan S Inda-Diaz, Sverker Molander, Jessica Coria, Thomas Backhaus, Erik Kristiansson",
         "journal": "Science Advances",
         "abstract": "Environmental hazard assessments are reliant on toxicity data that cover multiple organism groups. Generating experimental toxicity data is, however, resource-intensive and time-consuming. Computational methods are fast and cost-efficient alternatives, but the low accuracy and narrow applicability domains have made their adaptation slow. Here, we present a AI-based model for predicting chemical toxicity. The model uses transformers to capture toxicity-specific features directly from the chemical structures and deep neural networks to predict effect concentrations. The model showed high predictive performance for all tested organism groups—algae, aquatic invertebrates and fish—and has, in comparison to commonly used QSAR methods, a larger applicability domain and a considerably lower error. When the model was trained on data with multiple effect concentrations (EC50/EC10), the performance was …",
+        "date": "2024"
+    },
+    {
+        "title": "The UNITE database for molecular identification and taxonomic communication of fungi and other eukaryotes: sequences, taxa and classifications reconsidered",
+        "link": "https://scholar.google.se/citations?view_op=view_citation&hl=sv&user=WauDzPUAAAAJ&sortby=pubdate&citation_for_view=WauDzPUAAAAJ:PVjk1bu6vJQC",
+        "authors": "Kessy Abarenkov, R Henrik Nilsson, Karl-Henrik Larsson, Andy FS Taylor, Tom W May, Tobias Guldberg Frøslev, Julia Pawlowska, Björn Lindahl, Kadri Põldmaa, Camille Truong, Duong Vu, Tsuyoshi Hosoya, Tuula Niskanen, Timo Piirmann, Filipp Ivanov, Allan Zirk, Marko Peterson, Tanya E Cheeke, Yui Ishigami, Arnold Tobias Jansson, Thomas Stjernegaard Jeppesen, Erik Kristiansson, Vladimir Mikryukov, Joseph T Miller, Ryoko Oono, Francisco J Ossandon, Joana Paupério, Irja Saar, Dmitry Schigel, Ave Suija, Leho Tedersoo, Urmas Kõljalg",
+        "journal": "Nucleic Acids Research",
+        "abstract": "UNITE (https://unite.ut.ee) is a web-based database and sequence management environment for molecular identification of eukaryotes. It targets the nuclear ribosomal internal transcribed spacer (ITS) region and offers nearly 10 million such sequences for reference. These are clustered into ∼2.4M species hypotheses (SHs), each assigned a unique digital object identifier (DOI) to promote unambiguous referencing across studies. UNITE users have contributed over 600 000 third-party sequence annotations, which are shared with a range of databases and other community resources. Recent improvements facilitate the detection of cross-kingdom biological associations and the integration of undescribed groups of organisms into everyday biological pursuits. Serving as a digital twin for eukaryotic biodiversity and communities worldwide, the latest release of UNITE offers improved avenues for biodiversity …",
         "date": "2024"
     }
 ]
