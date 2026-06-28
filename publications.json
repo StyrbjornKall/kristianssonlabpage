@@ -1,5 +1,21 @@
 [
     {
+        "title": "Reply to Bonomo and Hujer,“Enhancing clinical utility of AI-based antimicrobial resistance models: a perspective”",
+        "link": "https://scholar.google.se/citations?view_op=view_citation&hl=sv&user=WauDzPUAAAAJ&sortby=pubdate&citation_for_view=WauDzPUAAAAJ:nZcligLrVowC",
+        "authors": "Juan S Inda-Díaz, Erik Kristiansson",
+        "journal": "mBio",
+        "abstract": "We thank Dr. Bonomo and Dr. Hujer for their thoughtful and insightful comments on our article,“Confidence-based prediction of antibiotic resistance at the patient level”(1, 2). We appreciate their recognition of the study’s technical advancement and the scale of the data used to train our AI model, containing millions of AST results from more than 30 European countries.Major challenges must be addressed before AI-based methods for guiding the treatment of infections caused by antibiotic-resistant bacteria can be widely deployed in clinical practice. The points raised by Bonomo and Hujer, especially the lack of “real-world validation” and issues with data quality and consistency, are important and relevant culprits that today are not properly addressed by our and many other AI-based methods. In fact, the lack of evidence demonstrating benefits for patients and health care providers is a general issue for medical AI as …",
+        "date": "2026"
+    },
+    {
+        "title": "Environmental concentrations of the fungicide tebuconazole alter microbial biodiversity and trigger biofilm-released transformation products",
+        "link": "https://scholar.google.se/citations?view_op=view_citation&hl=sv&user=WauDzPUAAAAJ&sortby=pubdate&citation_for_view=WauDzPUAAAAJ:P7Ujq4OLJYoC",
+        "authors": "Natàlia Corcoll, Daniela Gomez-Martinez, Anders K Nilsson, Erik Kristiansson, Henrik R Nilsson, Eric Carmona Martinez",
+        "journal": "SETAC Europe 36ᵗʰ Annual Meeting",
+        "abstract": "No abstract available",
+        "date": "2026"
+    },
+    {
         "title": "Antibiotic resistance gene analyses in microbial communities: challenges and opportunities",
         "link": "https://scholar.google.se/citations?view_op=view_citation&hl=sv&user=WauDzPUAAAAJ&sortby=pubdate&citation_for_view=WauDzPUAAAAJ:3htObqc8RwsC",
         "authors": "DG Joakim Larsson, Carl-Fredrik Flach, Erik Kristiansson",
@@ -141,22 +157,6 @@
         "authors": "R Henrik Nilsson, Arnold Tobias Jansson, Christian Wurzbacher, Sten Anslan, Pauline Belford, Natàlia Corcoll, Alexandra Dombrowski, Masoomeh Ghobad-Nejhad, Mikael Gustavsson, Daniela Gómez-Martínez, Faheema Kalsoom Khan, Maryia Khomich, Charlotte Lennartsdotter, David Lund, Breyten Van Der Merwe, Vladimir Mikryukov, Marko Peterson, Teresita M Porter, Sergei Põlme, Alice Retter, Marisol Sanchez-Garcia, Sten Svantesson, Patrik Svedberg, Duong Vu, Martin Ryberg, Kessy Abarenkov, Erik Kristiansson",
         "journal": "MycoKeys",
         "abstract": "﻿Abstract Journal impact factors were devised to qualify and compare university library holdings but are frequently repurposed for use in ranking applications, research papers, and even individual applicants in mycology and beyond. The widely held assumption that mycological studies published in journals with high impact factors add more to systematic mycology than studies published in journals without high impact factors nevertheless lacks evidential underpinning. The present study uses the species hypothesis system of the UNITE database for molecular identification of fungi and other eukaryotes to trace the publication history and impact factor of sequences uncovering new fungal species hypotheses. The data show that journal impact factors are poor predictors of discovery potential in systematic mycology. There is no clear relationship between journal impact factor and the discovery of new species …",
-        "date": "2024"
-    },
-    {
-        "title": "Transformers enable accurate prediction of acute and chronic chemical toxicity in aquatic organisms",
-        "link": "https://scholar.google.se/citations?view_op=view_citation&hl=sv&user=WauDzPUAAAAJ&sortby=pubdate&citation_for_view=WauDzPUAAAAJ:ruyezt5ZtCIC",
-        "authors": "Mikael Gustavsson, Styrbjörn Käll, Patrik Svedberg, Juan S Inda-Diaz, Sverker Molander, Jessica Coria, Thomas Backhaus, Erik Kristiansson",
-        "journal": "Science Advances",
-        "abstract": "Environmental hazard assessments are reliant on toxicity data that cover multiple organism groups. Generating experimental toxicity data is, however, resource-intensive and time-consuming. Computational methods are fast and cost-efficient alternatives, but the low accuracy and narrow applicability domains have made their adaptation slow. Here, we present a AI-based model for predicting chemical toxicity. The model uses transformers to capture toxicity-specific features directly from the chemical structures and deep neural networks to predict effect concentrations. The model showed high predictive performance for all tested organism groups—algae, aquatic invertebrates and fish—and has, in comparison to commonly used QSAR methods, a larger applicability domain and a considerably lower error. When the model was trained on data with multiple effect concentrations (EC50/EC10), the performance was …",
-        "date": "2024"
-    },
-    {
-        "title": "The UNITE database for molecular identification and taxonomic communication of fungi and other eukaryotes: sequences, taxa and classifications reconsidered",
-        "link": "https://scholar.google.se/citations?view_op=view_citation&hl=sv&user=WauDzPUAAAAJ&sortby=pubdate&citation_for_view=WauDzPUAAAAJ:PVjk1bu6vJQC",
-        "authors": "Kessy Abarenkov, R Henrik Nilsson, Karl-Henrik Larsson, Andy FS Taylor, Tom W May, Tobias Guldberg Frøslev, Julia Pawlowska, Björn Lindahl, Kadri Põldmaa, Camille Truong, Duong Vu, Tsuyoshi Hosoya, Tuula Niskanen, Timo Piirmann, Filipp Ivanov, Allan Zirk, Marko Peterson, Tanya E Cheeke, Yui Ishigami, Arnold Tobias Jansson, Thomas Stjernegaard Jeppesen, Erik Kristiansson, Vladimir Mikryukov, Joseph T Miller, Ryoko Oono, Francisco J Ossandon, Joana Paupério, Irja Saar, Dmitry Schigel, Ave Suija, Leho Tedersoo, Urmas Kõljalg",
-        "journal": "Nucleic Acids Research",
-        "abstract": "UNITE (https://unite.ut.ee) is a web-based database and sequence management environment for molecular identification of eukaryotes. It targets the nuclear ribosomal internal transcribed spacer (ITS) region and offers nearly 10 million such sequences for reference. These are clustered into ∼2.4M species hypotheses (SHs), each assigned a unique digital object identifier (DOI) to promote unambiguous referencing across studies. UNITE users have contributed over 600 000 third-party sequence annotations, which are shared with a range of databases and other community resources. Recent improvements facilitate the detection of cross-kingdom biological associations and the integration of undescribed groups of organisms into everyday biological pursuits. Serving as a digital twin for eukaryotic biodiversity and communities worldwide, the latest release of UNITE offers improved avenues for biodiversity …",
         "date": "2024"
     }
 ]
